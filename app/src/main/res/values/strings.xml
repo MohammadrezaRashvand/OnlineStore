@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OnlineStore</string>
+    <string name="Login">LoginButton</string>
+    <string name="OnlineStore">Online Store</string>
+    <string name="CreateNewAccount">Create New Account</string>
+    <string name="FullName">  Full Name</string>
+    <string name="Email"> Email</string>
+    <string name="password">Password</string>
+    <string name="signin">Signin</string>
+    <string name="already_have_acount_login_here">Already Have Acount / Login Here</string>
+    <string name="phone">Phone</string>
+    <string name="online_store">Online Store</string>
+    <string name="password">Password</string>
+    <string name="now_here_create_account">Now Here / Create Account</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="todo">TODO</string>
+</resources>
